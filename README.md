@@ -12,7 +12,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
-- [Author](#author)
+- [Connect with me](#connect-with-me)
 
 ## Overview
 
@@ -79,7 +79,7 @@ I want to learn javascript to make my websites more responsive. I also want to m
 - [CSSMatic](https://cssmatic.com) - This helped me with generating a box-shadow.
 
 
-## Author
+## Connect with me
 
 - Frontend Mentor - [@Maseho](https://www.frontendmentor.io/profile/Maseho)
 - Twitter - [@masxho](https://www.twitter.com/masxho)
